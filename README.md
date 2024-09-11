@@ -14,6 +14,18 @@ This repository contains lab exercises and implementations for the Operating Sys
 
 In the first lab, we explored the basics of the Linux operating system, including:
 
+### Introduction to CLI
+The Command Line Interface (CLI) provides a way to interact with the operating system using text commands. Key concepts covered include:
+- Basic Linux commands
+- Navigation in the terminal
+- File and directory operations
+
+### File and Directory Management
+Managing files and directories is a fundamental part of operating systems. This section includes:
+- Creating, renaming, and deleting files and directories
+- Permissions and access control
+- Viewing file properties
+
 ## How to Use
 
 1. Clone the repository:
