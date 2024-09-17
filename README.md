@@ -30,7 +30,7 @@ Managing files and directories is a fundamental part of operating systems. This 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/operating-systems-labs.git
+    git clone https://github.com/rooshanriaz/OS-Lab-CS-311.git
     ```
 2. Navigate to the respective lab folders to view the materials and scripts.
 
